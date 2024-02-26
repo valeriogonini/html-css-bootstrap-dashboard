@@ -1,0 +1,24 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+ul,li, 
+menu{
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+.logo{
+    width: 50px;
+}
+.container-header{
+    margin:0px 10px;
+
+}
+.input-header{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(229, 229, 229);
+}
