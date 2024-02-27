@@ -42,6 +42,7 @@ img {
 
 
 .w-150 {
+    height: 1000px;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -83,3 +84,31 @@ img {
     background-color: rgb(22, 91, 186);
 }
 
+.section-main {
+    color: black;
+    margin: 30px 15px;
+}
+
+.card-header {
+    border: 1px solid rgb(226, 226, 227);
+}
+.border-card{
+    border: 1px solid rgb(226, 226, 227);
+    
+}
+
+.title-header {
+    background-color: rgb(247, 247, 247);
+    padding: 10px;
+    border-bottom: 2px solid rgb(226, 226, 227);
+}
+.width-3{
+    width: 1000px;
+}
+.card{
+    margin: 15px;
+}
+.input-list{
+    vertical-align: middle;
+    margin-right: 5px;
+}
