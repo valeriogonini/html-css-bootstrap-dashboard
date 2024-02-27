@@ -1,24 +1,31 @@
-*{
+* {
     font-family: 'Open Sans', sans-serif;
 }
-ul,li, 
-menu{
+
+ul,
+li,
+menu {
     list-style: none;
 }
-img{
+
+img {
     max-width: 100%;
 }
-.logo{
+
+.logo {
     width: 50px;
 }
-.fa-solid{
+
+.fa-solid {
     width: 20px;
 }
-.container-header{
-    margin:0px 10px;
+
+.container-header {
+    margin: 0px 10px;
 
 }
-.input-header{
+
+.input-header {
     width: 100%;
     padding: 5px;
     border: none;
@@ -26,13 +33,15 @@ img{
     background-color: rgb(229, 229, 229);
     padding-left: 40px;
 }
-#app{
+
+#app {
     height: 100vh;
     width: 100%;
     display: flex;
 }
-.w-150{
-    padding:20px;
+
+.w-150 {
+    padding: 20px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -41,30 +50,34 @@ img{
     color: white;
     background-color: rgb(5, 30, 52);
 }
+
 .w-150 i {
     margin-top: 20px;
     margin-right: 8px;
 }
-.section-glass{
-position: relative;
+
+.section-glass {
+    position: relative;
 }
-.glass{
+
+.glass {
 
     position: absolute;
     top: 50%;
     left: 16px;
     transform: translateY(-50%);
 }
-.section-plane{
+
+.section-plane {
     color: white;
     width: 100%;
-    height: 100px;
+    height: 130px;
     background-color: rgb(27, 114, 232);
 }
+
 .b-piani {
     padding: 5px 15px;
     font-size: 13px;
     border-radius: 9999px;
     background-color: rgb(22, 91, 186);
 }
-
