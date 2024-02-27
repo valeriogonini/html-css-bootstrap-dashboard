@@ -24,6 +24,7 @@ img{
     border: none;
     border-radius: 5px;
     background-color: rgb(229, 229, 229);
+    padding-left: 40px;
 }
 #app{
     height: 100vh;
@@ -43,6 +44,16 @@ img{
 .w-150 i {
     margin-top: 20px;
     margin-right: 8px;
+}
+.section-glass{
+position: relative;
+}
+.glass{
+
+    position: absolute;
+    top: 50%;
+    left: 16px;
+    transform: translateY(-50%);
 }
 .section-plane{
     color: white;
