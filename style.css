@@ -40,6 +40,7 @@ img {
     display: flex;
 }
 
+
 .w-150 {
     padding: 20px;
     display: flex;
@@ -81,3 +82,4 @@ img {
     border-radius: 9999px;
     background-color: rgb(22, 91, 186);
 }
+
